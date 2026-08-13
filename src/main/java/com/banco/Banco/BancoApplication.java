@@ -19,9 +19,4 @@ public class BancoApplication {
 		return String.format("Hello %s!", name);
 	}
 
-	//@GetMapping("/")
-	//public String inicio() {
-		// Redirige automáticamente al archivo index.html dentro de la carpeta static
-	//	return "redirect:/index.html";
-
 }
