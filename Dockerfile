@@ -1,5 +1,5 @@
 # Etapa de compilación
-FROM eclipse-temurin:17-jdk-alpine AS build
+FROM eclipse-temurin:21-jdk-alpine AS build
 WORKDIR /app
 
 # Copiar archivos de Maven y dependencias
