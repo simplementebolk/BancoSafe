@@ -31,3 +31,20 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Archivos de construcción
+/target/
+/build/
+.gradle/
+
+# IDEs
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.env
+
+# Archivos del sistema
+.DS_Store
+*.log
