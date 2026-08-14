@@ -16,7 +16,7 @@ public class BancoApplication {
 
 	@GetMapping("/index")
 	public String index(@RequestParam(value = "name", defaultValue = "World") String name) {
-		return String.format("Hello %s!", name);
+		return String.format("Hola %s!", name);
 	}
 
 }
