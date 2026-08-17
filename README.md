@@ -23,7 +23,7 @@ bancosafe/
 │   ├── main/
 │   │   ├── java/com/...    <-- Código fuente en Java (Controladores, etc.)
 │   │   └── resources/
-│   │       ├── static/     <-- Archivos HTML, CSS, JS (index.html, login.html, register.html)
+│   │       ├── static/     
 │   │       └── application.properties <-- Configuración global de la app
 │   └── test/               <-- Pruebas unitarias
 ├── mvnw                    <-- Script para Linux / macOS
